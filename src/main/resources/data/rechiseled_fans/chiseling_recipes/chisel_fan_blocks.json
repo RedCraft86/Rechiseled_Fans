@@ -1,0 +1,17 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "item": "rechiseled_fans:fan_single"
+    },
+    {
+      "item": "rechiseled_fans:fan_single_malfunction"
+    },
+    {
+      "item": "rechiseled_fans:fan_quad"
+    },
+    {
+      "item": "rechiseled_fans:fan_quad_malfunction"
+    }
+  ]
+}

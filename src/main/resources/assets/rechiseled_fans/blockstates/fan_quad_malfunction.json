@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "on=false": {
+      "model": "rechiseled_fans:block/fan_quad"
+    },
+    "on=true": {
+      "model": "rechiseled_fans:block/fan_quad_malfunction"
+    }
+  }
+}

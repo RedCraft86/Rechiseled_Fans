@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rechiseled_fans:block/side",
+    "up": "rechiseled_fans:block/side",
+    "north": "rechiseled_fans:block/still",
+    "east": "rechiseled_fans:block/side",
+    "south": "rechiseled_fans:block/back",
+    "west": "rechiseled_fans:block/side",
+    "particle": "rechiseled_fans:block/side"
+  },
+  "render_type": "solid"
+}

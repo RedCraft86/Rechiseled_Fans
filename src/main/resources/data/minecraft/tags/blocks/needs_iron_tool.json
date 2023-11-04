@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rechiseled_fans:fan_single",
+    "rechiseled_fans:fan_single_malfunction",
+    "rechiseled_fans:fan_quad",
+    "rechiseled_fans:fan_quad_malfunction"
+  ]
+}

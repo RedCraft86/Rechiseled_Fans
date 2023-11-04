@@ -1,0 +1,16 @@
+{
+  "fan_block": {
+    "subtitle": "block.rechiseled_fans.fan_block",
+    "sounds": [
+      "rechiseled_fans:metal1",
+      "rechiseled_fans:metal2",
+      "rechiseled_fans:metal3",
+      "rechiseled_fans:metal4",
+      "rechiseled_fans:metal5",
+      "rechiseled_fans:metal6",
+      "rechiseled_fans:metal7",
+      "rechiseled_fans:metal8",
+      "rechiseled_fans:metal9"
+    ]
+  }
+}

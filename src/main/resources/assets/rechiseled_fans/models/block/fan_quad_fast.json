@@ -1,0 +1,10 @@
+{
+  "parent": "rechiseled_fans:block/fan_quad",
+  "textures": {
+    "north": "rechiseled_fans:block/fast",
+    "east": "rechiseled_fans:block/fast",
+    "south": "rechiseled_fans:block/fast",
+    "west": "rechiseled_fans:block/fast"
+  },
+  "render_type": "solid"
+}

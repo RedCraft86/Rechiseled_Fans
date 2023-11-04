@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,on=false": {
+      "model": "rechiseled_fans:block/fan_single"
+    },
+    "facing=north,on=true": {
+      "model": "rechiseled_fans:block/fan_single_fast"
+    },
+    "facing=east,on=false": {
+      "model": "rechiseled_fans:block/fan_single",
+      "y": 90
+    },
+    "facing=east,on=true": {
+      "model": "rechiseled_fans:block/fan_single_fast",
+      "y": 90
+    },
+    "facing=south,on=false": {
+      "model": "rechiseled_fans:block/fan_single",
+      "y": 180
+    },
+    "facing=south,on=true": {
+      "model": "rechiseled_fans:block/fan_single_fast",
+      "y": 180
+    },
+    "facing=west,on=false": {
+      "model": "rechiseled_fans:block/fan_single",
+      "y": 270
+    },
+    "facing=west,on=true": {
+      "model": "rechiseled_fans:block/fan_single_fast",
+      "y": 270
+    }
+  }
+}

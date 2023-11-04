@@ -1,0 +1,7 @@
+{
+  "parent": "rechiseled_fans:block/fan_single",
+  "textures": {
+    "north": "rechiseled_fans:block/malfunction"
+  },
+  "render_type": "solid"
+}
