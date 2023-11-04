@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-#issueTrackerURL="https://github.com/RedCraft86/Rechiseled_Fans/Issues"
+issueTrackerURL="https://github.com/RedCraft86/Rechiseled_Fans/issues"
 
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-#displayURL="https://github.com/RedCraft86/Rechiseled_Fans"
+displayURL="https://github.com/RedCraft86/Rechiseled_Fans"
 logoFile="icon.png"
 credits="Textures by the Chisel team"
 authors="${mod_authors}"
